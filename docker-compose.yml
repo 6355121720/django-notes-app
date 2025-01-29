@@ -1,5 +1,6 @@
 version: "3.8"
 
+
 services:  # ✅ Added the missing "services" key
   django_app:
     build:
