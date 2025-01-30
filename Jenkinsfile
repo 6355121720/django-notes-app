@@ -1,8 +1,8 @@
 @Library('Django') _
 
 pipeline{
-    agent:{
-        label slave
+    agent{
+        label 'slave'
     }
 
     stages{
