@@ -1,4 +1,4 @@
-@Library('Django) _
+@Library('Django') _
 
 pipeline{
     agent:{
